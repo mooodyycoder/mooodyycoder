@@ -3,7 +3,7 @@
 🎓 Computer Science student passionate about web development and interactive UI design.<br>
 💻 Building fun and functional web apps using HTML, CSS, JavaScript, Bootstrap, and Animate.css.<br>
 📚 Always learning and exploring new technologies to level up my projects.<br>
-🔧 Eager to collaborate on beginner-friendly open-source projects and grow through hands-on experience.[Instagram](https://www.instagram.com/atharvaa.joshii/)<br>
+🔧 Eager to collaborate on beginner-friendly open-source projects and grow through hands-on experience.<br>
 
 
 ## 🌐 Socials:
